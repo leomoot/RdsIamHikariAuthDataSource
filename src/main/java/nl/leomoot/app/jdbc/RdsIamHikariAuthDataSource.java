@@ -24,7 +24,10 @@ import org.apache.commons.lang3.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * DataSource that supports IAM authentication to RDS
+ * DataSource that supports IAM authentication to RDS.
+ * 
+ * @author <a href="mailto:leo.moot@gmail.com">Leo Moot</a>
+ * @author <a href="mailto:leo.moot@luminis.eu">Leo Moot</a>
  */
 @Slf4j
 public class RdsIamHikariAuthDataSource extends HikariDataSource implements Runnable {
