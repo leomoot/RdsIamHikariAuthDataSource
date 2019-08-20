@@ -19,7 +19,3 @@ policy attached:
     ]
 }
 ```
-
-Permission to modify and redistribute is granted under the terms of the 
-[Apache License 2.0] [license-url]
-
