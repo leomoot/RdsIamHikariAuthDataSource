@@ -1,6 +1,6 @@
 # RdsIamHikariAuthDataSource
 
-Accessing AWS RDS using IAM Authentication and HikariCP / Spring Boot 2.1.x 
+Accessing AWS RDS using IAM Authentication and HikariCP / Spring Boot 2.1.x and a authtoken refresh mechanism. 
 The RDS instance should have IAM Authentication enabled. You need to create a user with the following
 policy attached:
 ```
