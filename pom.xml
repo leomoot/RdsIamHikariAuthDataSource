@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<aws.sdk.version>1.11.610</aws.sdk.version>
+		<aws.sdk.version>1.11.966</aws.sdk.version>
 		<owasp.dependencycheck.version>5.2.1</owasp.dependencycheck.version>
 		<dependency.check.version>2.7</dependency.check.version>
 	</properties>
